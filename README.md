@@ -1,3 +1,5 @@
+```
+
 # The Sideloading Manifesto
 
 ## Init
@@ -27,3 +29,5 @@
 13. Write code, not speculations
 14. Become a digital god
 15. Resurrect your ancestors
+
+```
